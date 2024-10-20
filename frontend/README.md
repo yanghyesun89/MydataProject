@@ -3,6 +3,7 @@
 - Vuejs 프레임워크 통해서 화면 개발
 
 ## Results
+<img width="1782" alt="스크린샷" src="https://github.com/user-attachments/assets/d3c2849f-e5c2-4962-a6fc-d286f3c4fa84">
 
 1. 홈화면
 
@@ -16,7 +17,13 @@ npm run serve
 ## package.json
 
 ```json
-axios
+{
+  "axios": "^1.7.7",
+  "core-js": "^3.8.3",
+  "vue": "^3.2.13",
+  "vue-router": "^4.0.3",
+  "vuex": "^4.0.0"
+}
 ```
 
 ## 구현 설명
