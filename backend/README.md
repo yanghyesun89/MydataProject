@@ -60,7 +60,6 @@ app
  ┣ tests
  ┃ ┗ testChat.py
  ┣ .env
- ┣ __init__.py
  ┣ main.py
  ┗ requirements.txt
 ```
