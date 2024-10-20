@@ -64,12 +64,10 @@ export default {
     addChat() {
       //질문을 입력하지 않았을 경우
       if (this.question.trim().length === 0) {
-        console.log("question is empty");
         return;
       }
       //질문을 진행하고 있는 경우
       if (this.isLoading) {
-        console.log("loading...");
         return;
       }
       this.chatList.push({
