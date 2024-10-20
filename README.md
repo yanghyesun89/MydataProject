@@ -16,7 +16,7 @@
 
 ## 프론트엔드
 
-[백엔드 READMD](https://github.com/yanghyesun89/MydataProject/blob/main/frontend/README.md)
+[프론트엔드 READMD](https://github.com/yanghyesun89/MydataProject/blob/main/frontend/README.md)
 
 ## 참고 사항
 
