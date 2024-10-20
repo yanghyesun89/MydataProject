@@ -239,7 +239,7 @@ def test_chat(client: TestClient):
   assert "data" in content
 ```
 
-- 테스트 방법 : pytest test/testChat.py 입력
+- 테스트 방법 : pytest tests/testChat.py 입력
 
 ```shell
 $ pytest tests/testChat.py
